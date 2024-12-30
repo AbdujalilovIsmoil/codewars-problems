@@ -1,3 +1,4 @@
-const invert = (array) => array.map((el) => -el);
+const findAverage = (nums) => nums.reduce((a, b) => a + b, 0) / nums.length;
 
-invert([]);
+findAverage([1]);
+findAverage([1, 3, 5, 7]);
