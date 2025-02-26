@@ -25,7 +25,6 @@ The **Codewars** platform offers **💻 programming challenges** from **🟢 beg
 
 ## 🔗 My Profiles  
 🏆 **Codewars**: [AbdujalilovIsmoiljon](https://www.codewars.com/users/AbdujalilovIsmoiljon)  
-🐙 **GitHub**: [Your GitHub Profile](https://github.com/your-profile)  
 
 ## 🤝 Contributing  
 Want to improve a solution or add new challenges? Feel free to **fork** the repo and create a **pull request**!  
