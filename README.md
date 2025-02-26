@@ -12,13 +12,13 @@ The **Codewars** platform offers **💻 programming challenges** from **🟢 beg
 📱 If you need **🌐 websites**, **🖥️ web apps**, or **📲 mobile applications**, we are here to help!  
 📞 **Get in touch with UnitDev today!**  
 
-## 🏆 Difficulty Levels <br>
+## 🏆 Difficulty Levels 
 🟢 **8 kyu** – Beginner-friendly, fundamental exercises. <br>
 🔴 **7 kyu** – More complex problems requiring logical thinking.  
 
 ## 📂 Folder Structure  
 
-📁 Codewars-Challenges
+📁 Codewars-Challenges <br>
 ┣ 📂 8-kyu # 🟢 Beginner-level solutions <br>
 ┣ 📂 7-kyu # 🔴 Intermediate-level solutions <br>
 ┗ 📄 README.md
