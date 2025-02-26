@@ -13,7 +13,7 @@ The **Codewars** platform offers **💻 programming challenges** from **🟢 beg
 📞 **Get in touch with UnitDev today!**  
 
 ## 🏆 Difficulty Levels  
-🟢 **8 kyu** – Beginner-friendly, fundamental exercises.  
+🟢 **8 kyu** – Beginner-friendly, fundamental exercises. <br>
 🔴 **7 kyu** – More complex problems requiring logical thinking.  
 
 ## 📂 Folder Structure  
