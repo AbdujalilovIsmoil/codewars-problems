@@ -12,7 +12,7 @@ The **Codewars** platform offers **💻 programming challenges** from **🟢 beg
 📱 If you need **🌐 websites**, **🖥️ web apps**, or **📲 mobile applications**, we are here to help!  
 📞 **Get in touch with UnitDev today!**  
 
-## 🏆 Difficulty Levels  
+## 🏆 Difficulty Levels <br>
 🟢 **8 kyu** – Beginner-friendly, fundamental exercises. <br>
 🔴 **7 kyu** – More complex problems requiring logical thinking.  
 
