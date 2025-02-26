@@ -19,8 +19,8 @@ The **Codewars** platform offers **💻 programming challenges** from **🟢 beg
 ## 📂 Folder Structure  
 
 📁 Codewars-Challenges
-┣ 📂 8-kyu # 🟢 Beginner-level solutions
-┣ 📂 7-kyu # 🔴 Intermediate-level solutions
+┣ 📂 8-kyu # 🟢 Beginner-level solutions <br>
+┣ 📂 7-kyu # 🔴 Intermediate-level solutions <br>
 ┗ 📄 README.md
 
 ## 🔗 My Profiles  
